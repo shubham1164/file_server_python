@@ -1,0 +1,5 @@
+{
+  "result_path": "/Users/ssingla/Documents/Workspace/Python/SAR/sar/output.json",
+  "eeg_upload_path": "/Users/ssingla/Documents/Workspace/Python/SAR/sar/eeg.dat", 
+  "ppg_upload_path": "/Users/ssingla/Documents/Workspace/Python/SAR/sar/ppg.dat"
+}
